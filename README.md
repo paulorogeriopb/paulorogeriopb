@@ -1,9 +1,9 @@
 <h1 align="center">Paulo Rogério</h1>
 <h2 align="left">Informações</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/4219/4219585.png" width="20px" height="20px">  Cabedelo, PB
+<img src="https://cdn-icons-png.flaticon.com/512/4219/4219585.png" width="20px" height="20px">  João Pessoa, PB
 
-<a href="mail: accyoleclebson@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="30px" height="20px">  accyoleclebson@gmail.com</a>
+<a href="mail: paulorogeriojp@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="30px" height="20px">  paulorogeriojp@gmail.com</a>
 
 <hr>
 
@@ -37,7 +37,3 @@
 
 <hr>
 
-<h2 align="left" >Servidores</h2>
-<a href="https://www.microtik.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJE9rQlhhVFd7jUHoUkP9VxFUCJWXkiXTLA&s"/> </a> 
-
-<hr>

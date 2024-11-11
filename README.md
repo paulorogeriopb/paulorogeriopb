@@ -20,6 +20,7 @@
 <h2 align="left" >Frameworks</h2>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width='58' height='48' /></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width='48' height='48'/> </a> 
+<a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logotype.min.svg" width='48' height='48'/> </a> 
 
 
 <hr>

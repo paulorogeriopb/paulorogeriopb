@@ -20,7 +20,7 @@
 <h2 align="left" >Frameworks</h2>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width='58' height='48' /></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width='48' height='48'/> </a> 
-<a href="https://laravel.com" target="_blank"> <img src="[https://res.cloudinary.com/teepublic/image/private/s--WC490G4d--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:38/co_ffffff,e_outline:inner_fill:38/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_313,q_auto:good:420,w_313/v1654831631/production/designs/31437719_0](https://e7.pngegg.com/pngimages/19/121/png-clipart-laravel-computer-icons-phpunit-font-awesome-framework-miscellaneous-angle-thumbnail.png" width='48' height='48'/> </a> 
+<a href="https://laravel.com" target="_blank"> <img src="https://e7.pngegg.com/pngimages/19/121/png-clipart-laravel-computer-icons-phpunit-font-awesome-framework-miscellaneous-angle-thumbnail.png" width='48' height='48'/> </a> 
 
 
 <hr>
